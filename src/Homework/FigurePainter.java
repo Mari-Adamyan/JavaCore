@@ -74,5 +74,4 @@ public class FigurePainter {
             System.out.println();
         }
     }
-
 }
