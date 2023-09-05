@@ -1,4 +1,4 @@
-package classwork;
+package classwork.chapter5;
 
 // Using the comma.
 public class Comma {
