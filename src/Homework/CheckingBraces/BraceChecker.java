@@ -13,7 +13,7 @@ public class BraceChecker {
             char current = text.charAt(i);
 
             switch (current) {
-                case '[':
+                case '[': 
                     stack.push('[');
                     break;
                 case ']':
